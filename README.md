@@ -56,13 +56,6 @@ The input file should contain one Bitcoin address per line, for example:
 156xqGjcFVaQMAZBcdmM2fy7SHyNrZPpbM
 ```
 
-## Project Structure
-
-- `main.go`: The main entry point of the application.
-- `models/`: Contains the data models used in the application.
-- `process/`: Contains the logic for processing the addresses and retrieving UTXOs.
-- `.gitignore`: Specifies files and directories to be ignored by Git.
-
 ## Dependencies
 
 - [Fyne](https://fyne.io/) - A cross-platform GUI toolkit for Go.
