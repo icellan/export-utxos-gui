@@ -49,12 +49,12 @@ This is a GUI application built with the Fyne framework in Go. The application a
 
 The input file should contain one Bitcoin address per line, for example:
 
-    ```
-    1Pwyh2BK4ez9uyDMiq5bDXdHdLHVFa13Xt
-    1Nvazaharko2cPtVndBVnsRt73ATgyydZF
-    1AdZzMusaum92gHEcTDdDv7Lt733yii6EN
-    156xqGjcFVaQMAZBcdmM2fy7SHyNrZPpbM
-    ```
+```
+1Pwyh2BK4ez9uyDMiq5bDXdHdLHVFa13Xt
+1Nvazaharko2cPtVndBVnsRt73ATgyydZF
+1AdZzMusaum92gHEcTDdDv7Lt733yii6EN
+156xqGjcFVaQMAZBcdmM2fy7SHyNrZPpbM
+```
 
 ## Project Structure
 
